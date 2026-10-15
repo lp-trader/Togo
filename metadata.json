@@ -1,0 +1,6 @@
+{
+  "name": "Pastas To Go - Demo de Pedidos",
+  "description": "Demo interactiva de aplicación de pedidos móviles para Pastas To Go. Tradición en un bowl.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
